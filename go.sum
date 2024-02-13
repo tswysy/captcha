@@ -1,0 +1,6 @@
+github.com/jordan-wright/email v0.0.0-20200322182553-8eef2508c362 h1:5GjN/aV0y9Vlh0/bW7x4+Wk1dfPUXHhZlc1YBQYch8Q=
+github.com/jordan-wright/email v0.0.0-20200322182553-8eef2508c362/go.mod h1:Fy2gCFfZhay8jplf/Csj6cyH/oshQTkLQYZbKkcV+SY=
+github.com/panshiqu/dysms v0.0.0-20171201022106-5af765604ec1 h1:p0y1WY+8K2/gOWcDksCrDbSBftYeltBigt8WynOLx3k=
+github.com/panshiqu/dysms v0.0.0-20171201022106-5af765604ec1/go.mod h1:HUUIU2kzBADQBBghYn/DI2yIJhbGxfEldUJ8ZzKV4Dk=
+gitlab.classcool.net/packages/regex v1.0.0 h1:plBjogmT4fz+MiMqHc2mXNFTA82VpzwwRq3/hWQJQkY=
+gitlab.classcool.net/packages/regex v1.0.0/go.mod h1:/z0kXX8BZ99n7CrBUPMmle95aGG7SaKdV/lqF69ARH0=
